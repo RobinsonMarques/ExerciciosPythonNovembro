@@ -34,19 +34,16 @@ def calc_sal_brute(din_hora: float, horas_trab: float)-> float:
 
 def calc_discount(sal_bruto: float, tipo: int)-> float:
     if tipo == 1:
-        ir = sal_bruto * 0.11
-        return ir
+        result = sal_bruto * 0.11   
     elif tipo == 2:
-        inss = sal_bruto * 0.08
-        return inss
+        result = sal_bruto * 0.08   
     elif tipo == 3:
-        sindicato = sal_bruto * 0.05
-        return sindicato
+        result = sal_bruto * 0.05  
     elif tipo == 4:
-        sal_liquido = sal_bruto - sal_bruto * 0.24
-        return sal_liquido
+        result = sal_bruto - sal_bruto * 0.24
     else:
         print('Tipo inexistente!')
+    return result
 
 if __name__ == '__main__':
     data_user = request_data()
