@@ -61,3 +61,4 @@ if __name__ == '__main__':
     sal_liquido = calc_discount(sal_bruto, 4)
 
     print_tot(sal_bruto, ir, inss, sindicato, sal_liquido)
+    
