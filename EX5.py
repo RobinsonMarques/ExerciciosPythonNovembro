@@ -41,3 +41,4 @@ if __name__ == '__main__':
     joga_dado()
     print_result()
     
+#Alexandra: meu deus que código lindo :O muito intuitivo de se compreender também, parabainx clap clap 

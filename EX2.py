@@ -49,3 +49,6 @@ Quantidade Latas: {latas2}
 Quantidade Galões: {gal2}
 Total a pagar: {pag_lat_gal}
 ''')
+
+#Alexandra: tudo certo aqui também (^‿^) eu sei pra que o aux serve, só não sei o que a palavra aux significa, talvez
+#isso possa confundir alguém

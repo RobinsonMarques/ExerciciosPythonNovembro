@@ -62,3 +62,5 @@ if __name__ == '__main__':
 
     print_tot(sal_bruto, ir, inss, sindicato, sal_liquido)
     
+    #Alexandra: tudo certo aqui :D pelo menos nada errado e de fácil compreensão, o que eu não entendo 
+    # é mais por falta de conhecimento meu do que didática sua, talvez isso aconteça nos próximos códigos

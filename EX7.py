@@ -28,3 +28,10 @@ Letras "I": {letras_i}
 Letras "O": {letras_o}
 Letras "U": {letras_u}
 ''')
+
+#Alexandra: e pra finalizar o segundo exercício mais fácil, muito bommm :3 de conselho pra simplificar entre a
+#linha 17 e 21 é usar o comando .lower, ele torna uma letra como mesma variável independente de estar maiúscula
+#e minúscula :] assim:
+# vogais = 'a e i o u'
+# str = str.lower() 
+#porém o seu continua ótimo e intuitivo :D

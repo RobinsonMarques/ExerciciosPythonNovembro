@@ -27,3 +27,5 @@ if __name__ == "__main__":
     ladoc = float(input('Digite o lado C do triângulo: '))
     tipo = ver_tri(ladoa, ladob, ladoc)
     print(tipo)
+
+#Alexandra: tudo tranquilo aqui c: tarefa mais fácil também
